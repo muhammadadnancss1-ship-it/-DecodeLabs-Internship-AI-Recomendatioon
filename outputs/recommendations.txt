@@ -1,0 +1,33 @@
+AI Recommendation Engine Results
+==================================
+
+User interests:
+- Python
+- Machine Learning
+- Ai
+
+Recommended courses:
+1. Machine Learning Fundamentals (46.18% match)
+   Category: Artificial Intelligence
+   Difficulty: Beginner
+   Why: Understand the basic ideas behind machine learning models and predictions.
+
+2. Advanced Machine Learning (25.55% match)
+   Category: Artificial Intelligence
+   Difficulty: Advanced
+   Why: Build stronger ML models using better features validation and tuning methods.
+
+3. Python for Beginners (21.17% match)
+   Category: Programming
+   Difficulty: Beginner
+   Why: Start learning Python from scratch with simple examples and small practice tasks.
+
+4. Python for Data Analysis (14.02% match)
+   Category: Data Science
+   Difficulty: Intermediate
+   Why: Learn how to clean analyze and explore real datasets using Python libraries.
+
+5. Deep Learning Basics (13.88% match)
+   Category: Artificial Intelligence
+   Difficulty: Intermediate
+   Why: Learn how neural networks work and build basic deep learning projects.
